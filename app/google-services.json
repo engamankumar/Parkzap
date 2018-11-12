@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "730184730623",
+    "firebase_url": "https://parkszap1.firebaseio.com",
+    "project_id": "parkszap1",
+    "storage_bucket": "parkszap1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730184730623:android:77cb547dce04dc5f",
+        "android_client_info": {
+          "package_name": "com.example.mramankumar.parkszap1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730184730623-3lp8h522s4u81dejglg7j9qj3im7hmj8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mramankumar.parkszap1",
+            "certificate_hash": "073320fc499d09c5e3a81991b8cb0cc4aab35e8b"
+          }
+        },
+        {
+          "client_id": "730184730623-c1i1kjhe5lvmj19sn4f79le1o5aefpgq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqKn60IS321PjmUYeBD11pFwgAHIL8gps"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730184730623-c1i1kjhe5lvmj19sn4f79le1o5aefpgq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
