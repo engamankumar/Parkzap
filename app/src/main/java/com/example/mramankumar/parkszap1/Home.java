@@ -97,8 +97,8 @@ public class Home extends AppCompatActivity {
 
                 String  location_type= "ROOFTOP";
                 String latlng= lat+","+lon;
-                String key="AIzaSyA9g0IWJwN-zLSN5JcIaRy9x9XGRkPlaBE";
-                Api apiInterface = APIClient.getClient().create(Api.class);
+                String key="*******************";
+                
                 Call<Address> call = service.groupList(latlng,location_type,key);
                 call.enqueue(new Callback<Address>() {
                     @Override
